@@ -6,7 +6,7 @@ I'm a passionate software developer with a love for building things. Currently, 
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-mk070&show_icons=true&count_private=true&hide=issues&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mk070&show_icons=true&count_private=true&hide=issues&theme=radical)
 
 <!-- GitHub Activity Graph -->
 ## GitHub Activity
