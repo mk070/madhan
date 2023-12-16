@@ -14,7 +14,7 @@ I'm a passionate software developer with a love for building things. Currently, 
 
 <!-- Featured Projects -->
 ## Featured Projects
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=mk070&repo=project-1&theme=radical)](https://github.com/mk070/web3-game)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=mk070&repo=project-1&theme=radical)](https://github.com/mk070/Web3-Game)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=mk070&repo=project-2&theme=radical)](https://github.com/your-username/project-2)
 <!-- Add more projects as needed -->
 
