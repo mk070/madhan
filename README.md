@@ -19,15 +19,9 @@ I'm a passionate software developer with a love for building things. Currently, 
 
 <!-- Connect with Me -->
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-madhan)
 
 <!-- GitHub Gists -->
-## Gists
-- [Gist 1](https://gist.github.com/your-username/gist-1)
-- [Gist 2](https://gist.github.com/your-username/gist-2)
-<!-- Add more gists as needed -->
 
 <!-- GitHub Streak Stats -->
 ## GitHub Streak Stats
