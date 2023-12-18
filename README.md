@@ -9,14 +9,7 @@ I'm a passionate software developer with a love for building things. Currently, 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mk070&show_icons=true&count_private=true&hide=issues&theme=radical)
 
 <!-- GitHub Activity Graph -->
-## GitHub Activity
-![Your Name's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mk070&theme=react-dark)
 
-<!-- Featured Projects -->
-## Featured Projects
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=mk070&repo=project-1&theme=radical)](https://github.com/mk070/Web3-Game)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=mk070&repo=project-2&theme=radical)](https://github.com/your-username/project-2)
-<!-- Add more projects as needed -->
 
 <!-- Skills -->
 ## Skills
