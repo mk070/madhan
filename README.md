@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hello, I'm Your Name! 👋
+# Hello, I'm Madhan! 👋
 
 <!-- Your Bio -->
 I'm a passionate software developer with a love for building things. Currently, I'm exploring new technologies and working on exciting projects.
