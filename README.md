@@ -27,7 +27,7 @@ I'm a passionate software developer with a love for building things. Currently, 
 <!-- Connect with Me -->
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-madhan)
-[![Twitter Follow](https://img.shields.io/twitter/follow/madhanking12?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white)](https://twitter.com/madhanking12)
+[![Twitter Follow](https://img.shields.io/twitter/follow/madhanking12?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=madhanking12)
 
 
 <!-- GitHub Gists -->
